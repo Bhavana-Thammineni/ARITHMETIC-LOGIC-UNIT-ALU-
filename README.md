@@ -46,3 +46,6 @@ MENTOR: NEELA SANTOSH
 | 1110  |   ALU_Out = 1 if A>B else 0;
 ----------------------------------------------------------------------
 | 1111  |   ALU_Out = 1 if A=B else 0;
+
+
+![Image](https://github.com/user-attachments/assets/0c18dc5b-a412-4db2-b23a-309f75c68e64)
